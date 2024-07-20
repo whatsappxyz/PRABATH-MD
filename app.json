@@ -1,5 +1,5 @@
 {
-  "name": "PRABATH-MD (2.1.2)",
+  "name": "PRABATH-MD",
   "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
@@ -7,18 +7,18 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "917067575472",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "PRABATH-MD~nd1g3AiD#kJorHhrWWW9s-DTJTMx58nBC-U1RF28aDnDhWlDpXh8",
       "required": false
     },  
 
 
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github authtoken here.",
+      "description": "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",
       "required": true
     }   
 },
